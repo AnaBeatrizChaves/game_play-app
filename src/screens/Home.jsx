@@ -10,6 +10,7 @@ import { colors } from '../constants/colors';
 import { CATEGORIES, USER } from '../constants/mock';
 
 /**
+ * ATUALIZADO EM 24/09
  * Tela Home. Além de "navigation" (que o React Navigation sempre entrega
  * de graça), esta tela recebe "matches" como prop extra — é o App.js que
  * decide passar essa prop
