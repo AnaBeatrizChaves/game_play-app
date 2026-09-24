@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "profile",
-    "slug": "profile",
+    "name": "game_play-app",
+    "slug": "game_play-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
   }
 }
